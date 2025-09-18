@@ -114,20 +114,6 @@ Help System | Context Sensitive PDF Help Files
 Report Methods | HTML Reports
 Project Version Control | Git and Course assigned GitHub Repository
 
-### Getting Started/Requirements/Prerequisites/Dependencies
-- Obtain Package_Deploy zip file (in google drive - link in "Installer-URL")
-- Unzip file
-- Run installer and go through steps
-- Run program
-
-### Videos 
-- Project Proposal (https://drive.google.com/file/d/1rcLtr_NEVCjIS_UV6oBMlGKWEbGyPCNq/view?usp=drive_link)
-- Logon View (https://drive.google.com/file/d/1ZZrMUEtqvAD2eY0-45P8OdsJ1Jrf1-Vf/view?usp=sharing)
-- Customer View (https://drive.google.com/file/d/1RdyS8KxwaQZonFcE2r-aYSgrVNyL11h2/view?usp=sharing)
-- Manager View [Must Update with URL at each Pull Request approval]
-- Video Resume [Must Update with URL at each Pull Request approval]
-- Final Client Demonstration Video [Must Update with URL at each Pull Request approval]
-
 ### Contact
 
 Contact | Information
